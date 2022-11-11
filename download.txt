@@ -1,0 +1,6 @@
+https://github.com/mf1024/ImageNet-Datasets-Downloader
+
+python3 downloader.py \         
+> -data_root ../data/imagenet_images/ \
+> -number_of_classes 1000 \
+> -images_per_class 50

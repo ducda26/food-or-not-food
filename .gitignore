@@ -132,5 +132,7 @@ dmypy.json
 data/imagenet_images/*
 data/food_images/*
 data/non_food_images/*
-ImageNet-Datasets-Downloader/*
-test_images
+model_test_images
+data/train/*
+data/test
+data/model_test_images_split
