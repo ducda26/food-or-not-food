@@ -133,3 +133,4 @@ data/imagenet_images/*
 data/food_images/*
 data/non_food_images/*
 ImageNet-Datasets-Downloader/*
+test_images
