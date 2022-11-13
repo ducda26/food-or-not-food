@@ -1,4 +1,6 @@
 https://github.com/mf1024/ImageNet-Datasets-Downloader
+ pip install pydot 
+ sudo apt install graphviz 
 
 python3 downloader.py \         
 > -data_root ../data/imagenet_images/ \

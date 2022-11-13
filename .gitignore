@@ -137,3 +137,5 @@ data/train/*
 data/test
 data/model_test_images_split
 test_images
+food_not_food_model_v1.tflite
+logs

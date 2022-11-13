@@ -1,0 +1,56 @@
+{
+    "os": "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.12",
+    "heartbeatAt": "2022-11-12T09:56:40.789853",
+    "startedAt": "2022-11-12T09:56:31.238994",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/ducda26/food-or-not-food.git",
+        "commit": "349f715bd7c99a95db9b2b0235e07ba62fa19fc1"
+    },
+    "email": null,
+    "root": "/home/anhduc/project/tf/food-or-not-food",
+    "host": "Canada-2024",
+    "username": "anhduc",
+    "executable": "/home/anhduc/anaconda3/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2693.765,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2693.765,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2693.765,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2693.765,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2693.765,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 250.98248672485352,
+        "used": 23.559860229492188
+    },
+    "memory": {
+        "total": 7.723930358886719
+    }
+}
